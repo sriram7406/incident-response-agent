@@ -1,4 +1,4 @@
-###🚨 AI-Powered Incident Response Agent
+🚨 AI-Powered Incident Response Agent
 
 > An intelligent incident-response system that analyzes production incidents, learns from historical incidents, retrieves relevant evidence, and provides evidence-backed recommendations for faster incident resolution.
 
@@ -10,7 +10,7 @@
 
 ---
 
-##📌 Overview
+📌 Overview
 
 Modern production systems generate large amounts of logs, alerts, errors, and incident reports. When an incident occurs, engineers need to quickly understand:
 
@@ -28,7 +28,7 @@ Instead of treating every incident as a completely new problem, the system searc
 
 ---
 
-# 🎯 Objectives
+🎯 Objectives
 
 The system is designed to:
 
@@ -46,9 +46,9 @@ The system is designed to:
 
 ---
 
-# ✨ Key Features
+✨ Key Features
 
-## 🧠 1. Incident Analysis
+🧠 1. Incident Analysis
 
 The system converts raw incident information into structured data.
 
@@ -63,7 +63,7 @@ It can identify:
 - Logs
 - Resolution information
 
-### Example
+Example
 
 ```text
 Raw Incident:
@@ -86,7 +86,7 @@ Database connection/configuration issue
 
 ---
 
-# 🔎 2. Historical Incident Search
+🔎 2. Historical Incident Search
 
 The system searches historical incidents to find relevant information for a new incident.
 
@@ -112,7 +112,7 @@ This allows the system to answer questions such as:
 
 ---
 
-# 🧩 3. Similar Incident Detection
+ 🧩 3. Similar Incident Detection
 
 The system identifies incidents with similar:
 
@@ -143,13 +143,13 @@ The retrieved incidents provide additional context for the response process.
 
 ---
 
-# 🧠 4. Hindsight Intelligence
+ 🧠 4. Hindsight Intelligence
 
 The **Hindsight Engine** extracts useful information from historical incidents.
 
 It can identify:
 
-### Previous Root Causes
+Previous Root Causes
 
 ```text
 - Database connection pool exhaustion
@@ -158,7 +158,7 @@ It can identify:
 - Network timeout
 ```
 
-### Previously Successful Solutions
+Previously Successful Solutions
 
 ```text
 - Rollback deployment
@@ -167,7 +167,7 @@ It can identify:
 - Restart affected service
 ```
 
-### Failed Attempts
+Failed Attempts
 
 The system can also preserve approaches that did not resolve previous incidents.
 
@@ -175,7 +175,7 @@ This helps prevent repeatedly trying ineffective solutions.
 
 ---
 
-# 🔁 5. Recurring Pattern Detection
+🔁 5. Recurring Pattern Detection
 
 Historical incidents can reveal recurring operational problems.
 
@@ -195,7 +195,7 @@ Recognizing such patterns provides additional evidence when investigating new in
 
 ---
 
-# 📚 6. Evidence-Based Recommendations
+📚 6. Evidence-Based Recommendations
 
 The system provides historical evidence that can be used by the incident-response agent.
 
@@ -212,7 +212,7 @@ This gives the response process additional context instead of relying only on th
 
 ---
 
-# 🔄 7. Feedback & Learning Loop
+ 🔄 7. Feedback & Learning Loop
 
 After an incident is resolved, its outcome can be stored back into the system.
 
@@ -242,7 +242,7 @@ Over time, the memory system becomes a growing knowledge base of operational exp
 
 ---
 
-# 🏗️ System Architecture
+ 🏗️ System Architecture
 
 ```text
                     ┌───────────────────────┐
@@ -299,7 +299,7 @@ Over time, the memory system becomes a growing knowledge base of operational exp
 
 ---
 
-# 🛠️ Technology Stack
+ 🛠️ Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -316,7 +316,7 @@ Over time, the memory system becomes a growing knowledge base of operational exp
 
 ---
 
-# 📂 Project Structure
+ 📂 Project Structure
 
 ```text
 incident-response-agent/
@@ -356,18 +356,18 @@ incident-response-agent/
 
 ---
 
-# ⚙️ Installation
+⚙️ Installation
 
-## 1. Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/sriram7406/incident-response-agent.git
 cd incident-response-agent
 ```
 
-## 2. Create a virtual environment
+2. Create a virtual environment
 
-### Windows
+Windows
 
 ```bash
 python -m venv .venv
