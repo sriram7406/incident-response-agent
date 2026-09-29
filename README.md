@@ -2,13 +2,23 @@
 
 ## 📚 Project Documentation & Articles
 
-- 🔗 [LinkedIn Article – AI-Powered Incident Response Agent]
-      MEMBER-1:(YOUR_LINKEDIN_ARTICLE_URL)
-      MEMBER-2:(https://www.linkedin.com/pulse/giving-incident-response-agent-memory-can-actually-use-sriram-fienf?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
-      MEMBER-3:([YOUR_LINKEDIN_ARTICLE_URL](https://www.linkedin.com/pulse/building-backend-flow-behind-incident-response-agent-shaik-juhida-2wc7f))
-      MEMBER-4:([YOUR_LINKEDIN_ARTICLE_URL](https://www.linkedin.com/pulse/turning-ai-incident-analysis-interface-engineers-can-actually-hzs2f))
-- 🎥 [Project Demo](YOUR_DEMO_VIDEO_URL)
+### 🔗 LinkedIn Articles
 
+- **Member 1 – AI Analysis Layer**
+  [Building the AI Analysis Layer for an Incident Response Agent](https://www.linkedin.com/pulse/building-ai-analysis-layer-incident-response-agent-likhitha-moparthi-euqlf)
+
+- **Member 2 – Incident Memory & Hindsight**
+  [Giving an Incident Response Agent a Memory It Can Actually Use](https://www.linkedin.com/pulse/giving-incident-response-agent-memory-can-actually-use-sriram-fienf)
+
+- **Member 3 – Backend Flow**
+  [Building the Backend Flow Behind an Incident Response Agent](https://www.linkedin.com/pulse/building-backend-flow-behind-incident-response-agent-shaik-juhida-2wc7f)
+
+- **Member 4 – Incident Analysis Interface**
+  [Turning AI Incident Analysis into an Interface Engineers Can Actually Use](https://www.linkedin.com/pulse/turning-ai-incident-analysis-interface-engineers-can-actually-hzs2f)
+
+### 🎥 Project Demo
+
+[Watch the Project Demo on YouTube](https://youtu.be/xnT4JJCKl-I)
 
 > An intelligent incident-response system that analyzes production incidents, learns from historical incidents, retrieves relevant evidence, and provides evidence-backed recommendations for faster incident resolution.
 
