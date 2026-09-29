@@ -1,5 +1,15 @@
 # 🚨 AI-Powered Incident Response Agent
 
+## 📚 Project Documentation & Articles
+
+- 🔗 [LinkedIn Article – AI-Powered Incident Response Agent]
+      MEMBER-1:(YOUR_LINKEDIN_ARTICLE_URL)
+      MEMBER-2:(https://www.linkedin.com/pulse/giving-incident-response-agent-memory-can-actually-use-sriram-fienf?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
+      MEMBER-3:([YOUR_LINKEDIN_ARTICLE_URL](https://www.linkedin.com/pulse/building-backend-flow-behind-incident-response-agent-shaik-juhida-2wc7f))
+      MEMBER-4:([YOUR_LINKEDIN_ARTICLE_URL](https://www.linkedin.com/pulse/turning-ai-incident-analysis-interface-engineers-can-actually-hzs2f))
+- 🎥 [Project Demo](YOUR_DEMO_VIDEO_URL)
+
+
 > An intelligent incident-response system that analyzes production incidents, learns from historical incidents, retrieves relevant evidence, and provides evidence-backed recommendations for faster incident resolution.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
